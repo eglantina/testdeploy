@@ -1,0 +1,6 @@
+code: test-deploy
+description: Template for ent projects
+components:
+  widgets:
+    - ui/widgets/widgets-dir/cards-widget/cards-descriptor.yaml
+
