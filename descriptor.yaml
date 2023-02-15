@@ -1,4 +1,4 @@
-code: ent-prj-tmpl-bundle
+code: test-deploy
 description: Template for ent projects
 components:
   widgets:
